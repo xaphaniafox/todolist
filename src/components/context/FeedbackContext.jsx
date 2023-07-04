@@ -8,12 +8,10 @@ export const FeedbackProvider = ({ children }) => {
     {
       id: 1,
       text: "Buy a new book",
-      rating: 10,
     },
     {
       id: 2,
       text: "Register for the class",
-      rating: 7,
     },
   ]);
 

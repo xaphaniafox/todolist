@@ -43,6 +43,7 @@ function FeedbackForm() {
         addFeedback(newFeedback);
       }
       setText("");
+      feedbackEditItem.edit = false;
     }
   };
 
